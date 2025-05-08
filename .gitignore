@@ -1,0 +1,5 @@
+__pycache__/
+wandb/
+weights/
+venv_VAE/
+datasets/CelebAi/
